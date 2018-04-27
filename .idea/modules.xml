@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Go.iml" filepath="$PROJECT_DIR$/Go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoMobile.iml" filepath="$PROJECT_DIR$/GoMobile.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
